@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Games
+2. Reading
+3. Anime
+   1. SAO
+   2. AOT
