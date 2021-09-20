@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Trainability*
+_Adaptability_
+
+**Earnest**
+__Profit Oriented__
+
+_**Does** what is necessary_
